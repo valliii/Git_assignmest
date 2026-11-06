@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 master 
 First change 
 Second change 
+=======
+test 
+>>>>>>> test
